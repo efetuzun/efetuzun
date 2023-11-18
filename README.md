@@ -1,4 +1,4 @@
-### Hi there, I am Efe 👋
+<h1 align="center">Hi there, I'm Efe 👋</h1>
 
 - 🏫 I am a Computer Science and Engineering student at Sabancı University, class of 2024.
 - 🔭 I am currently working as a part-time Data Scientist at Mars Athletic.
