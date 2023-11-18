@@ -16,13 +16,12 @@
 [![dart](https://skillicons.dev/icons?i=dart)](https://dart.dev)
 
 ### Web and Mobile Development Tools/Languages
-[![react](https://skillicons.dev/icons?i=react) ](https://reactjs.org/) 
-[![flutter](https://skillicons.dev/icons?i=flutter) ](https://flutter.dev)
-[![css3](https://skillicons.dev/icons?i=css) ](https://www.w3schools.com/css/) 
-[![html5](https://skillicons.dev/icons?i=html) ](https://www.w3.org/html/) 
-[![heroku](https://skillicons.dev/icons?i=heroku) ](https://heroku.com)
+[![react](https://skillicons.dev/icons?i=react) ](https://reactjs.org/)
 [![materialui](https://skillicons.dev/icons?i=materialui) ](https://mui.com)
+[![heroku](https://skillicons.dev/icons?i=heroku) ](https://heroku.com)
 [![node.js](https://skillicons.dev/icons?i=nodejs) ](https://nodejs.org/en/)
+[![express.js](https://skillicons.dev/icons?i=express) ](https://expressjs.com)
+[![flutter](https://skillicons.dev/icons?i=flutter) ](https://flutter.dev)
 
 ### Databases
 [![mysql](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) 
